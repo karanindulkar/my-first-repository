@@ -1,7 +1,3 @@
 # Learning git
 
-1.
-2.
-3.
-4.
-5. 
+Hello World i love Git!
