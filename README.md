@@ -1,3 +1,5 @@
 # Learning git
 
-Hello World i love Git!
+Hello World I love Git!
+This is my first repository 
+Liking it so far
